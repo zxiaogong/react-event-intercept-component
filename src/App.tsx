@@ -1,6 +1,7 @@
 import { useRef } from 'react'
 // import EventIntercept from './components/export'
-import EventIntercept from '../public/type/event-intercept.es'
+// import EventIntercept from '../public/type/event-intercept.es'
+import EventIntercept from 'react-event-intercept'
 import './App.less'
 
 function App() {

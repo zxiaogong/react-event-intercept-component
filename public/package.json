@@ -1,7 +1,7 @@
 {
   "name": "react-event-intercept",
-  "version": "0.0.0",
-  "description": "react dom事件拦截器",
+  "version": "0.0.1",
+  "description": "React DOM event interceptor",
   "private": false,
   "author": "zxiaogong",
   "scripts": {

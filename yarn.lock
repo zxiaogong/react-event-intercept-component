@@ -740,6 +740,11 @@ react-dom@^18.2.0:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
 
+react-event-intercept@^0.0.0:
+  version "0.0.0"
+  resolved "https://registry.yarnpkg.com/react-event-intercept/-/react-event-intercept-0.0.0.tgz#e2def480ad58f711f62f725d7b10d4cf0b37e56e"
+  integrity sha512-nE+KyAlRfVEvDOeG7dXUko8Yub9zGT3oTHELkvbYrm3Ol3FI+Cm6OCOOIqHrGTgA1Uo63iCNhDx3Anz7G9bsDA==
+
 react-refresh@^0.14.0:
   version "0.14.0"
   resolved "https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.0.tgz#4e02825378a5f227079554d4284889354e5f553e"

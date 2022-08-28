@@ -7,8 +7,12 @@
 ```
 
 ## 安装
+```
 npm i react-event-intercept
+```
+```
 yarn add react-event-intercept
+```
 
 ## 使用方法/示例
 
