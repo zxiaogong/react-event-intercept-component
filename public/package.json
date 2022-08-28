@@ -1,0 +1,26 @@
+{
+  "name": "react-event-intercept",
+  "version": "0.0.0",
+  "description": "react dom事件拦截器",
+  "private": false,
+  "author": "zxiaogong",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib",
+    "type"
+  ],
+  "main": "lib/event-intercept.es.js",
+  "types": "type/event-intercept.es.ts",
+  "keywords": [
+    "react",
+    "event",
+    "intercept",
+    "dom"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zxiaogong/react-event-intercept-component"
+  }
+}
